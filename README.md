@@ -23,7 +23,5 @@ I'm a 2nd-year B.Tech (CSE) student at **IPEC Ghaziabad**, passionate about **So
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckysharma-dev&show_icons=true&theme=radical&count_private=true" alt="Lucky's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysharma-dev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Lucky's Stats](https://github-readme-stats.vercel.app/api?username=luckysharma-dev&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysharma-dev&layout=compact&theme=radical)
